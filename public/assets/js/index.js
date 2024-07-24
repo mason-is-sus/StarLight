@@ -22,7 +22,7 @@ if (AB === "on") {
       const name = localStorage.getItem("name") || "Home - Google Drive";
       const icon =
         localStorage.getItem("icon") ||
-        "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png";
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDXlUMqXu4RqZNSbrrodQAoM2dAL-8unqnGr4CElnwFXQRAiusCf6DnXYEQsJr1YM7SNQ:https://media.tenor.com/1DxZfuV9HvQAAAAM/smile-big-smile.gif&usqp=CAU";
 
       doc.title = name;
       link.rel = "icon";

@@ -1,7 +1,7 @@
 {
-  "name": "starlight",
-  "version": "1.1.1",
-  "description": "StarLight is a web proxy that has many features.",
+  "name": "goofballs",
+  "version": "idk",
+  "description": "goofballs is a web proxy that has many features.",
   "type": "module",
   "main": "server.js",
   "scripts": {

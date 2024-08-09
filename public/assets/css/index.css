@@ -1,5 +1,5 @@
 html {
-  background: linear-gradient(to bottom, #000000, #000000);
+  background: linear-gradient(to bottom, #545755, #000000);
   height: 100%;
   width: 100%;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-  background-image: linear-gradient(to bottom, #000000, #000000);
+  background-image: linear-gradient(to bottom, #545755, #000000);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
